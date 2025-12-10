@@ -1,2 +1,8 @@
 # first-repo
-learning the Github
+
+learning the GitHub
+
+
+
+Changing the file locally.
+
